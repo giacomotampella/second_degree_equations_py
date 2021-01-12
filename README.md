@@ -6,5 +6,5 @@ example:
   b = 3
   c = -1 
   
-  x1 = 1.0 (first solution)
-  x = 0.5 (second solution)
+  x1 = 1.0 (first solution)\n
+  x2 = 0.5 (second solution)
